@@ -46,7 +46,7 @@
   },
   "couplePhotos": [
     {
-      "image": "/src/assets/couple_photo/couple_photo_1.jpg",
+      "image": "/src/assets/couple_photo/couple_photo_1.Webp",
       "caption": "Our first special moment together"
     },
     {
@@ -165,4 +165,5 @@
     "play": "Play",
     "pause": "Pause"
   }
+
 }
